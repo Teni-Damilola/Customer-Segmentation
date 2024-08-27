@@ -5,6 +5,7 @@
 - [Recommendations](#recommendations)
 
 ## Project Overview
+--- - Adding line
 Customer Segmentation is a typical strategy used by organizations to categorize clients based on their demographics, shopping patterns, or other traits. 
 By conducting this project, I was able to leverage SQL's querying capabilities to segment customers effectively. This enhanced mytechnical skills in data analysis and also provided actionable insights that can drive business actions.
 I was also able to answer some questions that will be effective to improving customer service, personalize marketting efforts and optimize inventory management. The project proded a solid foundation for understanding and applying customer segmentation in a real-world context.
@@ -35,6 +36,19 @@ Include some interesting code/featured worked with
 ```sql
 
 ```
+
+😄
+
+💻
+|Heading1|Heading2|
+|---------|-------|
+|content|content2|
+|Python|Sql|
+
+`column1`
+**bold**
+
+*italics*
 
 
 ## Results/Findings
